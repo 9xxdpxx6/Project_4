@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_4", "Project_4\Project_4.csproj", "{18ABF71D-A135-4930-8928-E080CD07127C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibForProj", "LibForProj\LibForProj.csproj", "{1CAE52AD-EF2B-421E-9B03-ED513C209AAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkings", "Checkings\Checkings.csproj", "{CB5EA545-15AF-4C16-90AF-F6BC34DBACA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18ABF71D-A135-4930-8928-E080CD07127C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18ABF71D-A135-4930-8928-E080CD07127C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18ABF71D-A135-4930-8928-E080CD07127C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18ABF71D-A135-4930-8928-E080CD07127C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CAE52AD-EF2B-421E-9B03-ED513C209AAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CAE52AD-EF2B-421E-9B03-ED513C209AAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CAE52AD-EF2B-421E-9B03-ED513C209AAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CAE52AD-EF2B-421E-9B03-ED513C209AAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB5EA545-15AF-4C16-90AF-F6BC34DBACA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB5EA545-15AF-4C16-90AF-F6BC34DBACA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB5EA545-15AF-4C16-90AF-F6BC34DBACA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB5EA545-15AF-4C16-90AF-F6BC34DBACA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D508621-750D-4C74-8C0C-4808CC2B37F1}
+	EndGlobalSection
+EndGlobal
